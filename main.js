@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const start = async () => {
         // mockWithVideo('./assets/mock.mp4');
         const mindarThree = new window.MINDAR.IMAGE.MindARThree({
-            imageTargetSrc: './assets/bussines.mind',
+            imageTargetSrc: './assets/restaurant_logo.mind',
             container: document.querySelector("#container"),
             uiScanning: "#scanning",
             uiLoading: "no",
