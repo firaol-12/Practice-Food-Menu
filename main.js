@@ -38,8 +38,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const mouse = new THREE.Vector2();
 
         const menu = [
-            { id: 1, calorie: 350, name: "Burger", price: 150, glt: "https://res.cloudinary.com/djw0srhou/image/upload/v1776518831/hb-f_ggiyqa.glb", catagorie: "breakfast" },
-            { id: 2, calorie: 35, name: "Cheese Burger", price: 180, glt: "https://res.cloudinary.com/djw0srhou/image/upload/v1776518856/tco-8f_gmvnn2.glb", catagorie: "breakfast" },
+            { id: 1, calorie: 35, name: "Cheese Burger", price: 180, glt: "https://res.cloudinary.com/djw0srhou/image/upload/v1776518856/tco-8f_gmvnn2.glb", catagorie: "breakfast" },
+            { id: 2, calorie: 350, name: "Burger", price: 150, glt: "https://res.cloudinary.com/djw0srhou/image/upload/v1776518831/hb-f_ggiyqa.glb", catagorie: "breakfast" },
             { id: 3, calorie: 400, name: "Pizza Margherita", price: 250, glt: "https://res.cloudinary.com/djw0srhou/image/upload/v1776518858/tbs-12f_yz30yx.glb", catagorie: "breakfast" },
             { id: 4, calorie: 360, name: "Chicken Pizza", price: 300, glt: "https://res.cloudinary.com/djw0srhou/image/upload/v1776518831/gnf-7f_tfdhmn.glb", catagorie: "breakfast" },
             { id: 5, calorie: 30, name: "Pasta Alfredo", price: 220, glt: "https://res.cloudinary.com/djw0srhou/image/upload/v1776518827/fir_kx7h5f.glb", catagorie: "breakfast" },
